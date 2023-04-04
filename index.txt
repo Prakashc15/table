@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<table style="width:50%">
+table,th,td{
+border:1px solid black;
+border-collapse:collapse;
+}
+th,td{
+background-color:orange;
+}
+</style>
+</head>
+<body>
+<center>
+<h2>PERSONAL DETAILS</h2>
+</center>
+<table style="width:50%">
+<tr style="height:100px">
+<th>S/No</th>
+<th>Firstname</th>
+<th>Nickname</th>
+<th>Age</th>
+<th>Department</th>
+</tr>
+<tr>
+<th>1</th>
+<th>Konesh</th>
+<th>Kon</th>
+<th>20</th>
+<th>Computer Science</th>
+</tr>
+<tr>
+<th>2</th>
+<th>Bhuvanesh</th>
+<th>Bhu</th>
+<th>19</th>
+<th>Computer Science</th>
+</tr>
+<tr>
+<th>3</th>
+<th>Sathish</th>
+<th>Rat</th>
+<th>19</th>
+<th>Computer Science</th>
+</tr>
+<tr>
+<th>4</th>
+<th>Asik</th>
+<th>Citizen</th>
+<th>19</th>
+<th>Computer Science</th>
+</tr>
+<tr>
+<th>5</th>
+<th>Priyadharsan</th>
+<th>Chetta</th>
+<th>20</th>
+<th>Computer Science</th>
+</tr>
+</body>
+</html>
+
+
